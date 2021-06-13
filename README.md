@@ -7,7 +7,7 @@ This bot will attend all your zoom online classes according to your timetable.
 
 Clone the repository 
 
-**https://github.com/anonymous1232424/online_zoom_class_taker**
+git clone **https://github.com/anonymous1232424/online_zoom_class_taker**
 
 Install the requirements
 
